@@ -18,7 +18,11 @@
  */
 
 // TODO: 아래 코드를 작성하세요.
-class Person {}
+class Person {
+    constructor(name) {
+        
+    }
+}
 class Employee {}
 
 export { Person, Employee };
